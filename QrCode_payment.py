@@ -37,7 +37,7 @@ while True:
         ask=input("Want to generate custom amount limit QR? (y/n) \n")
         if ask=="y":
             limit=int(input("Enter Amount limit in rs (ex: 93.00) \n"))
-            upi_url_1 = f'upi://pay?pa={upi_id}&pn=Your Name&am={limit}&cu=INR&tn=tn=Thanks%20for%20Using%20me%20%E2%9D%A4'
+            upi_url_1 = f'upi://pay?pa={upi_id}&pn=Your Name&am={limit}&cu=INR&tn=Thanks%20for%20Using%20me%20%E2%9D%A4'
             upi_qr=qrcode.make(upi_url_1)
             upi_qr.show()
             ask=input("Want to Download Qr? (y/n)")
