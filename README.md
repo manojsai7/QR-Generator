@@ -1,4 +1,3 @@
-
 # 🔐 QR Code Generator for Secrets & UPI Payments (India Only 🇮🇳)
 
 Ever wanted to share a **secret** without saying it out loud? Or let someone pay you via UPI without spelling out your ID 5 times?  
@@ -70,7 +69,7 @@ This Python project makes it super simple (and kinda cool) to do both using QR c
 - Python 3.x
 - qrcode:
   ```bash
-  pip install qrcode[pil]
+  pip install qrcode[p]
   ```
 
 ---
@@ -93,8 +92,8 @@ Made for fun and learning. Let’s build together.
 
 ## 👨‍💻 Author
 
-Made with love by [YourNameHere]  
-For feedback, collabs, or just to say hi: [your_email@example.com]
+Made with love by MANOJ SAI  
+For feedback, collabs, or just to say hi: msai2k5@gmail.com
 
 ---
 
@@ -107,7 +106,3 @@ International users might have to modify the code for their own payment gateways
 
 Happy Scanning! 🖤  
 ```
-
----
-
-Let me know if you want a **cool badge section** (`[![Made With Python](...)]`) or want to convert this into a **Markdown with images and demo video embedded**. I can even generate a sample folder structure if you're planning to organize your GitHub repo like a pro.
