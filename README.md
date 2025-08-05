@@ -1,8 +1,4 @@
-Absolutely! Here's a **humanized `README.md`** that’s clean, beginner-friendly, and fun to read — perfect for GitHub.
 
----
-
-```markdown
 # 🔐 QR Code Generator for Secrets & UPI Payments (India Only 🇮🇳)
 
 Ever wanted to share a **secret** without saying it out loud? Or let someone pay you via UPI without spelling out your ID 5 times?  
